@@ -1,0 +1,15 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "NodeJS Redis Kullanımı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Asım Sinan Yüksel",
+  "dependencies": {
+    "express": "*",
+    "node-fetch": "*",
+    "redis": "*"
+  }
+}
